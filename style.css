@@ -19,7 +19,8 @@ section{
     padding-left: 30px;
 }
 .half-width img{
-    width: 90%;
+    width: 80%;
+    padding-top:10px;
 }
 .link-button{
     text-decoration: none;
