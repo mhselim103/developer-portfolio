@@ -37,7 +37,7 @@ h1{
 .db-banner{
     background-image:url(images/dream-bg.png);
     background-repeat: no-repeat;
-   background-position:right
+   background-position:right bottom;
 }
 #exp{
     padding-left: 30px;
